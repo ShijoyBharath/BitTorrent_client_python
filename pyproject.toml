@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "bencode-py>=4.0.0",
+    "rich>=13.9.4",
+    "ruff>=0.8.4",
 ]
